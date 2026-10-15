@@ -18,7 +18,7 @@ A high-performance, deterministic top-down combat engine and flocking AI framewo
 
 ## Architecture Overview
 
-```.
+```Project Breakdown
 Assets/_AxiomProtocol/
 ├── Data/
 │   ├── Actions/                         # ScriptableObject ability payloads (Damage, Knockback, VFX)
